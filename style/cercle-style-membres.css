@@ -1,0 +1,23 @@
+table {
+
+color: black;
+border-collapse: collapse;
+margin: auto;
+background-color: #a5b4fc;
+}
+
+
+td {
+	border: 1px solid white;
+	padding: 10px;
+}
+
+
+h1 {
+	text-align: center;
+}
+
+
+table a {
+	text-decoration: underline;
+}

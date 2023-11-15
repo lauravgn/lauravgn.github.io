@@ -1,0 +1,25 @@
+h1 {
+	text-align: center;
+}
+
+
+td {
+	border: solid 1px;
+	padding: 10px;
+
+}
+
+em {
+	text-decoration: underline ;
+}
+
+
+
+table {
+	border-collapse: collapse;
+	color: black;
+	background-color: #a5b4fc;
+	margin: auto;
+	width: 50%;
+	
+
